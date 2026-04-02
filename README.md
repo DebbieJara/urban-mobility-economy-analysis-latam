@@ -44,6 +44,11 @@ urban-mobility-economy-analysis-latam/
 ├── Urban_Mobility_LATAM_clean.ipynb
 └── README.md
 ```
+## Visualizaciones
+
+![Gráfica de barras](grafica_barras.png)
+![Boxplot](grafica_boxplot.png)
+![Histograma](grafica_histograma.png)
 
 ## Context
 This project was completed as part of the TripleTen Data Analytics Bootcamp (2025).  
