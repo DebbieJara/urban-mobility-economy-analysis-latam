@@ -28,6 +28,12 @@ Analyse the relationship between traffic congestion indicators and urban economi
 5. **Merge** — combined traffic and economic datasets for cross-analysis
 6. **Analyse & Visualise** — identified patterns between congestion and economic indicators
 
+## Visualizaciones
+
+![Gráfica de barras](grafica_barras.png)
+![Boxplot](grafica_boxplot.png)
+![Histograma](grafica_histograma.png)
+
 ## Key Skills Demonstrated
 - Data cleaning and type conversion with pandas
 - Handling real-world messy data (mixed formats, symbols, separators)
@@ -44,11 +50,6 @@ urban-mobility-economy-analysis-latam/
 ├── Urban_Mobility_LATAM_clean.ipynb
 └── README.md
 ```
-## Visualizaciones
-
-![Gráfica de barras](grafica_barras.png)
-![Boxplot](grafica_boxplot.png)
-![Histograma](grafica_histograma.png)
 
 ## Context
 This project was completed as part of the TripleTen Data Analytics Bootcamp (2025).  
